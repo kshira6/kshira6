@@ -11,7 +11,7 @@ I made this project in order to put into practice everything that I've learned i
 - 🔧 Git & GitHub, VS Code
 
   ## 🌍 Portfolio
-🔗 [Visit My Portfolio](http://kshira06.github.io/portfolio/text.html)
+🔗 [Visit My Portfolio](https://kshira06.github.io/portfolio/text.html#hero)
 
 ## 🌟 Fun Stuff
 > “The best way to get started is to quit talking and begin doing.” – Walt Disney
